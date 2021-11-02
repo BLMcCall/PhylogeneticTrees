@@ -1,4 +1,4 @@
-# MLtrees_IQTREE
+# Phylogenetic_Trees
 October 2021
 
 Maximum likelihood and species trees constructed in IQTREE and ExaBayes, respectively, through a shell
